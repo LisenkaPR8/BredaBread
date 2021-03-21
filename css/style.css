@@ -17,11 +17,6 @@ header {
     background-size: cover;
 }
 
-p {
-    font-family: 'Roboto Slab. serif;
-    font-size: 18px;
-}
-
 /* NAVIGATION */
 nav {
     background-color: #76210d;
@@ -30,11 +25,17 @@ nav {
 }
 .nav-link {
     color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
 }
 .nav-link:hover {
     color: red;
 }
 
+p {
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+}
 
 /* FOOTER */
 footer {
