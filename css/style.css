@@ -17,7 +17,9 @@ header {
     background-size: cover;
 }
 
-
+p {
+    font-family: 'Roboto Slab. serif;
+    font-size: 18px;
 
 /* NAVIGATION */
 nav {
