@@ -6,4 +6,4 @@ Edited by: Maggy Stoker / 160328
 
 Edited by Tessa Hoorn / 170767
 
-Edited by Daphne Sieffers / 172703
+Edited by: Daphne Sieffers / 172703
